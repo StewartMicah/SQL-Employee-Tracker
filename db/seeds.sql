@@ -13,7 +13,7 @@ VALUES
 ('Salesman', 60000, 2),
 ('Accountant', 55000, 3),
 ('Salesman', 60000, 2),
-('Accountant', 55000, 3);
+('Accountant', 55555, 3);
 
 INSERT INTO employee (first_name, last_name, job_id, manager_id)
 VALUES 
